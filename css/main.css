@@ -16,6 +16,22 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
+section {
+  padding: 1rem;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+p {
+  margin-top: 0;
+}
+
 .btn {
   background-color: #555;
   border-radius: 4px;
