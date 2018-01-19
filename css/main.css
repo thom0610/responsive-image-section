@@ -43,3 +43,61 @@ p {
 .img-flex {
   width: 100%;
 }
+
+a:hover {
+  background-color: #000;
+}
+
+
+@media only screen and (min-width: 25em) {
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  html {
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+  section {
+    padding: 2rem;
+  }
+
+  .all-content {
+    display: inline-block;
+    max-width: 45%;
+  }
+
+  .img-flex {
+    display: inline-block;
+    max-width: 45%;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  img {
+    display: inline-block;
+    width: 50%;
+  }
+
+  section {
+    display: inline-block;
+    padding: 2rem;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+
+  }
+}
