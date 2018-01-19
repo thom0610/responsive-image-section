@@ -60,10 +60,6 @@ a:hover {
     line-height: 1.4;
   }
 
-  section {
-    padding: 2rem;
-  }
-
   .all-content {
     display: inline-block;
     max-width: 45%;
