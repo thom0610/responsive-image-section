@@ -62,14 +62,14 @@ a:hover {
     line-height: 1.4;
   }
 
-  .wrapper {
+  .content {
     display: inline-block;
-    max-width: 45%;
+    width: 45%;
   }
 
-  .imgage {
+  div .image {
     display: inline-block;
-    max-width: 45%;
+    width: 45%;
   }
 
 }
@@ -96,6 +96,5 @@ a:hover {
 
   html {
     font-size: 130%;
-
   }
 }
