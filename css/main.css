@@ -80,12 +80,6 @@ a:hover {
     line-height: 1.5;
   }
 
-  .img-flex {
-    display: inline-block;
-    width: 50%;
-    max-width: 50%;
-  }
-
   .wrapper {
     display: inline-block;
     padding: 2rem;
@@ -98,11 +92,11 @@ a:hover {
     font-size: 130%;
   }
 
-  div .img-flex {
-    width: 50%;
-  }
-
   .content {
     margin-left: 7rem;
+  }
+
+  div .image {
+    max-width: 50%;
   }
 }
