@@ -93,10 +93,12 @@ a:hover {
   }
 
   .content {
-    margin-left: 7rem;
+    margin-left: 4rem;
+    vertical-align: middle;
   }
 
   div .image {
     max-width: 50%;
+    vertical-align: middle;
   }
 }
